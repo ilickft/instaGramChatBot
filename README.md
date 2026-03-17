@@ -105,7 +105,7 @@ IG_PASSWORD=your_bot_password
 
 1. **Export Instagram Cookies:**
    - Log into Instagram in your browser
-   - Install a cookie export extension (like "Get cookies.txt" for Chrome)
+   - Install a cookie export extension (like "Get cookies.txt" extension, firefox recommended)
    - Export cookies for instagram.com
    - Save as `instaCookies.txt` in the project root
 
