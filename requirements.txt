@@ -1,0 +1,5 @@
+instagrapi
+groq
+python-dotenv
+yt-dlp
+python-vlc
