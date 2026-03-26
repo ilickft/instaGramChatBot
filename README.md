@@ -5,7 +5,7 @@ A sophisticated Instagram DM chatbot with AI personality, music streaming, and s
 ## 🤖 Overview
 
 AryaChatBot is an advanced Instagram chatbot that:
-- Responds to DMs with a realistic GenZ Indian girl persona using Groq AI
+- Responds to DMs with a realistic GenZ girl persona using Groq AI
 - Streams music via VLC with yt-dlp integration
 - Learns user preferences and maintains conversation history
 - Supports owner-only relay commands and Instagram posting
@@ -105,7 +105,7 @@ IG_PASSWORD=your_bot_password
 
 1. **Export Instagram Cookies:**
    - Log into Instagram in your browser
-   - Install a cookie export extension (like "Get cookies.txt" for Chrome)
+   - Install a cookie export extension (like "Get cookies.txt" extension, firefox recommended)
    - Export cookies for instagram.com
    - Save as `instaCookies.txt` in the project root
 
