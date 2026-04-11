@@ -355,7 +355,14 @@ For issues and questions:
 3. Ensure all dependencies are properly installed
 4. Verify configuration in `.env` file
 
-**Developer Contact:** @ilickft (Instagram)
+## 👤 Author
+
+-   **Name:** KARIO
+-   **GitHub:** [@ilickft](https://github.com/ilickft)
+-   **instagram:** [@ilickft](https://www.instagram.com/ilickft)
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
