@@ -29,7 +29,7 @@ AryaChatBot is an advanced Instagram chatbot that:
 ### 1. Clone or Download the Project
 ```bash
 # If using git
-git clone <repository-url>
+git clone https://github.com/ilickft/instaGramChatBot
 cd AryaChatBot
 
 # Or download and extract the zip file to your desired location
